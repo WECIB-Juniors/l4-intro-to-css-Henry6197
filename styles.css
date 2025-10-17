@@ -4,11 +4,21 @@
 /* This ruleset defines the styling for the entire body of your HTML document. */
 body {
     /* Change this background-color. */
-    background-color: white;
-}
+    background-color:darkgoldenrod;}
 
 /* This defines styling for all your p elements */
 
-p {
+h1,h2 {color: rgb(60, 255, 0); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h3{color: #d0ff00;, font-weight: width: 292;}
+ol{color: aqua;font-size:xx-large}
+ul{background-color: rgb(255, 0, 149); color: rgb(0, 0, 0)}
 
-}
+button{color: rgb(255, 127, 127);background-color: blue;}
+
+header,footer{background-color: brown;color: blanchedalmond;}
+
+12. Change the background-color of your HTML body to a color that looks nice.
+   1. Type in a color with standard english for the body background-color.
+13. Change the text-color of your h1 and h2 tags using hex color codes. 
+   1. Find hex color codes using <a href="https://htmlcolorcodes.com/">this site.</a>
+14. Include 2-3 CSS rules for EACH element present in your website.
